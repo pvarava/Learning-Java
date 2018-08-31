@@ -1,3 +1,6 @@
 CoreJava/bin/
 .metadata
 .recommenders
+CoreJava/.classpath
+CoreJava/.project
+CoreJava/.settings/
